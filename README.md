@@ -14,7 +14,8 @@
 
   The model then classifies, detects and segments the object accordingly.
 
-  ![White   Grey Minimalist Company Structure Organizational Chart](https://github.com/adijams01/intel-oneAPI/assets/92617405/8bb18d84-c9d1-445c-8631-4184bca41fa1)
+![White   Grey Minimalist Company Structure Organizational Chart (1)](https://github.com/adijams01/intel-oneAPI/assets/92617405/0002ce35-25ae-458d-8093-9b72c3e68e2a)
+
 
   
 ## Tech Stack: 
